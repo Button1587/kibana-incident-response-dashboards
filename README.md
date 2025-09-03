@@ -36,3 +36,11 @@ This visualization shows suspicious domains queried by infected hosts, along wit
 By correlating source IPs to suspicious domains, analysts can identify **which systems are compromised** and communicating with malicious infrastructure.  
 
 ![Suspicious Domains Table](screenshots/Suspicious_domains_table.png)
+
+## Weird URI Proportion Chart
+
+This proportion (donut) chart displays the distribution of unusual or “weird” URIs observed in HTTP traffic.  
+These URIs often contain **random strings, strange file extensions, or hostnames** that do not belong in normal traffic.  
+The visualization makes it easy to spot **potentially malicious requests** and focus on the most abnormal behavior.  
+
+![Weird URI Proportion](screenshots/weird_uri_proportion.png)
