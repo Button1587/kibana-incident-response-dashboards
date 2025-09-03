@@ -22,3 +22,10 @@ It highlights the activity trends of the three malware families identified in th
 Tracking alerts over time makes it easier to spot **attacks, peaks in activity, or periods of dormancy**.  
 
 ![Time_Series_Graph](screenshots/Time_series_graph.png)
+
+## Malware Family Count Table
+
+This table lists the malware family names and the frequency of each observed in the packet capture.  
+It provides a quick way to measure **which malware families were most active** and prioritize response efforts.  
+
+![Malware_Family_Counts](screenshots/malware_family_counts.png)
