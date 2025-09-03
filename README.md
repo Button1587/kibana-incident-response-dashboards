@@ -43,4 +43,4 @@ This proportion (donut) chart displays the distribution of unusual or â€œweirdâ€
 These URIs often contain **random strings, strange file extensions, or hostnames** that do not belong in normal traffic.  
 The visualization makes it easy to spot **potentially malicious requests** and focus on the most abnormal behavior.  
 
-![Weird URI Proportion](screenshots/weird_uri_proportion.png)
+![Weird URI Proportion](screenshots/Weird_URLs_proportion_chart.png)
