@@ -1,9 +1,3 @@
-# Kibana Incident Response Dashboards
-
-[![Made with: Kibana](https://img.shields.io/badge/Made%20with-Kibana-informational)](#)
-[![Status: Active](https://img.shields.io/badge/Status-Active-success)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 ## Overview
 This project demonstrates the use of **Kibana dashboards** to analyze malware activity captured in network traffic. Multiple visualizations were created to support incident response workflows.
 
