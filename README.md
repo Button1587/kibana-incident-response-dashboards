@@ -28,4 +28,4 @@ Tracking alerts over time makes it easier to spot **attacks, peaks in activity, 
 This table lists the malware family names and the frequency of each observed in the packet capture.  
 It provides a quick way to measure **which malware families were most active** and prioritize response efforts.  
 
-![Malware_Family_Counts](screenshots/malware_family_counts.png)
+![Malware_Family_Count](screenshots/Malware_family_count_table.png)
