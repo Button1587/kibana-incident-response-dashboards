@@ -14,3 +14,11 @@ This project demonstrates the use of **Kibana dashboards** to analyze malware ac
 - Kibana (Elastic Stack)
 - PCAP analysis (imported logs)
 - Elasticsearch queries
+
+## Time-Series Graph of Malware Alerts
+
+This line graph shows the count of malware alerts over time, based on events from the packet capture.  
+It highlights the activity trends of the three malware families identified in the dataset.  
+Tracking alerts over time makes it easier to spot **attacks, peaks in activity, or periods of dormancy**.  
+
+![Time-Series Graph](screenshots/Time-series graph.png)
