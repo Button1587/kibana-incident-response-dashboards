@@ -21,4 +21,4 @@ This line graph shows the count of malware alerts over time, based on events fro
 It highlights the activity trends of the three malware families identified in the dataset.  
 Tracking alerts over time makes it easier to spot **attacks, peaks in activity, or periods of dormancy**.  
 
-![Time-Series Graph](screenshots/Time-series graph.png)
+![Time_Series_Graph](screenshots/Time_series_graph.png)
