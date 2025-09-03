@@ -29,3 +29,10 @@ This table lists the malware family names and the frequency of each observed in 
 It provides a quick way to measure **which malware families were most active** and prioritize response efforts.  
 
 ![Malware_Family_Count](screenshots/Malware_family_count_table.png)
+
+## Suspicious Domains Table
+
+This visualization shows suspicious domains queried by infected hosts, along with the **source IP address** and the **number of times** each domain was requested.  
+By correlating source IPs to suspicious domains, analysts can identify **which systems are compromised** and communicating with malicious infrastructure.  
+
+![Suspicious Domains Table](screenshots/Suspicious_domains_table.png)
