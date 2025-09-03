@@ -44,3 +44,16 @@ These URIs often contain **random strings, strange file extensions, or hostnames
 The visualization makes it easy to spot **potentially malicious requests** and focus on the most abnormal behavior.  
 
 ![Weird URI Proportion](screenshots/Weird_URLs_proportion_chart.png)
+
+
+---
+
+## Conclusion
+
+This project demonstrates how Kibana can be leveraged for **incident response and malware analysis**.  
+By building targeted visualizations, it becomes possible to:
+
+- Track malware family activity over time to identify attack waves  
+- Correlate suspicious domains with infected hosts to pinpoint compromised systems  
+- Highlight abnormal or malicious URIs in network traffic  
+- Summarize overall activity in a clear, interactive dashboard  
